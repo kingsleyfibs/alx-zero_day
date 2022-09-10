@@ -1,1 +1,2 @@
-coding is fun
+coding is fun.
+so cool.
